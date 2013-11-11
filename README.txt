@@ -1,0 +1,1 @@
+Write 3 thread safe ways of incrementing an integer
